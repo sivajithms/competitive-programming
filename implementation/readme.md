@@ -15,6 +15,7 @@
 
 📚 **Platform:** Codeforces
 
+---
 
 # 💡 Beautiful Matrix – Codeforces Problem 263A
 
